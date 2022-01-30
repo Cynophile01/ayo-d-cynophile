@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E
+}
+
+.top-container {
+  margin: 0;
+  background-color: #EAF6F6;
+  padding-top: 30px;
+}
+
+.middle-container {
+  margin: 0;
+}
+
+.bottom-container {
+  margin: 150px 0 0 0;
+  width:auto;
+  height: auto;
+}
+
+.top-cloud {
+  margin-left: 900px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  text-align: center;
+  font-size: 90px;
+  margin-bottom: 2px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight:normal;
+  text-align: center;
+  color: #66BFBF;
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  display:block;
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.mountain {
+  position: relative;
+  left:auto;
+}
+
+.profile-picture {
+  width:200px;
+  padding-top: 50px;
+  margin-left:auto;
+  margin-bottom: 50px;
+}
+
+p {
+  width: 30%;
+  margin: 30px auto auto auto;
+  font-family: arial;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 15%;
+  margin-top: 100px;
+}
+
+h3 {
+  color: #11999E;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+.mbt {
+  text-align: left;
+  margin-left: 472px;
+  padding-top: 0;
+}
+
+.mbt-profile {
+  text-align: left;
+  text-align: justify;
+}
+
+.biochemist-picture {
+  float:left;
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 200px;
+}
+
+.dog-training-picture {
+  width: 200px;
+  border-radius: 50%;
+  float:right;
+  margin-right: 450px;
+}
+
+.dog-training {
+  padding-top: 200px;
+  width: 100%;
+  height:auto;
+  position: relative;
+  left: 100px;
+  margin: auto;
+}
+
+.dog-training-title {
+  text-align: left;
+  margin-left: 200px;
+  padding-top: 0;
+}
+
+.dog-training-profile {
+  text-align: left;
+  margin-left: 200px;
+}
+
+.web-development{
+  padding-top: 200px;
+  width: 100%;
+  height:auto;
+  position: relative;
+  left: 100px;
+  margin: auto;
+}
+
+.web-development-picture {
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-left: 200px;
+}
+
+.web-development-title {
+  text-align: left;
+  margin-left: 480px;
+}
+
+.web-development-profile {
+  text-align: left;
+  text-align: justify;
+}
+
+.get-in-touch {
+  padding-top: 150px;
+}
+
+.GIT-statement {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+  color: black;
+}
+
+.biochemist-skill {
+  margin: 0;
+  width: 100%;
+  height:auto;
+  position: relative;
+  left: 100px;
+}
+
+.footer {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  width: auto;
+  height: 100px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+.span {
+  word-spacing: normal;
+  margin-right: 5px;
+  font-weight: bolder;
+}
